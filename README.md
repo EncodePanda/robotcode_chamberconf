@@ -5,7 +5,7 @@ Robotcode website is http://robocode.sourceforge.net/.
 
 ## 1.1 Understand the Game 
 
-(Taken from * [Your first robot](http://robowiki.net/wiki/Robocode/My_First_Robot))
+(Taken from [Your first robot](http://robowiki.net/wiki/Robocode/My_First_Robot))
 
 __Aim of the game:___ Creating a Robot
 
@@ -19,7 +19,7 @@ Here's the fun stuff: This is what Robocode is all about! Creating a robot can b
 
 ## 1.2 Understand the API
 
-* (Official Wiki)[http://robowiki.net/wiki/Robocode/]
+* [Official Wiki](http://robowiki.net/wiki/Robocode/)
 * [API](http://robocode.sourceforge.net/docs/robocode/)
 * check Scala examples to see example Robots 
 * read official README: http://robocode.sourceforge.net/docs/ReadMe.html
@@ -29,7 +29,8 @@ Here's the fun stuff: This is what Robocode is all about! Creating a robot can b
 
 
 * JAVA:       Follow official step-by-step [intro](http://robowiki.net/wiki/Robocode/Developers_Guide_for_building_Robocode)
-* SCALA:      See the (Scala project)[https://github.com/rabbitonweb/robotcode_scala/blob/master/Tanks.scala] and modify it with your Maven/Gradle/plain_old_javac
+* JAVA alternative:      See the [Scala project](https://github.com/rabbitonweb/robotcode_scala/blob/master/Tanks.scala) and modify it with your Maven/Gradle/plain_old_javac
+* SCALA:      See the [Scala project](https://github.com/rabbitonweb/robotcode_scala/blob/master/Tanks.scala) and modify it with your Maven/Gradle/plain_old_javac
 * OTHER_JVM:  From official wiki http://robowiki.net/wiki/Other_JVM_Languages
 * .NET        Please read [Robotcode Wiki](http://robowiki.net/wiki/Robocode/.NET/Create_a_.NET_robot_with_Visual_Studio])
 
