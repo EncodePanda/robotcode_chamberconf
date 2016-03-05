@@ -19,6 +19,7 @@ Here's the fun stuff: This is what Robocode is all about! Creating a robot can b
 
 ## 1.2 Understand the API
 
+* (Official Wiki)[http://robowiki.net/wiki/Robocode/]
 * [API](http://robocode.sourceforge.net/docs/robocode/)
 * check Scala examples to see example Robots 
 * read official README: http://robocode.sourceforge.net/docs/ReadMe.html
